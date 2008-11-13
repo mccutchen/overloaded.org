@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background: #eee url(bg.png) 15px 17px;
+}
+h1 {
+    position: absolute;
+    top: 162px;
+    left: 149px;
+}
+h1 img {
+    display: block;
+    width: 222px;
+    height: 26px;
+}
